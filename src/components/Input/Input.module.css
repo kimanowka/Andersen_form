@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  font-size: 14px;
+  padding: 5px;
+  border-radius: 20px;
+  background: white(0, 0, 0, 0);
+  color: #858585;
+}
