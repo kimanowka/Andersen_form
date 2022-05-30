@@ -10,3 +10,15 @@
   background: white(0, 0, 0, 0);
   color: #858585;
 }
+
+.input_error {
+  font-size: 14px;
+  padding: 5px;
+  border-radius: 20px;
+  border-color: red;
+}
+
+.error {
+  color: red;
+  font-size: 10px;
+}

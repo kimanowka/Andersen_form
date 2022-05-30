@@ -1,3 +1,11 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
 .textArea {
+  resize: none;
+}
+.error {
+  border-color: red;
   resize: none;
 }
